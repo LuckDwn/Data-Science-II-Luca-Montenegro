@@ -15,11 +15,23 @@ Steam es una de las plataformas de videojuegos más relevantes del mundo. Entend
 
 ## 🎯 Objetivos
 
-- Importar y explorar datasets de Steam desde Google Drive
-- Consultar la API oficial de Steam para enriquecer los datos
-- Identificar patrones a través de visualizaciones y estadísticas
-- Proponer hipótesis y variables candidatas para modelado futuro
-- Documentar insights para una presentación ejecutiva
+- 📂 **Importar y explorar datasets de Steam** desde Google Drive  
+- 🔌 **Consultar la API oficial de Steam** para enriquecer los datos  
+- 📊 **Identificar patrones y tendencias** mediante visualizaciones y estadísticas descriptivas  
+- 🧠 **Proponer hipótesis de interés** y variables candidatas para el modelado  
+- 📝 **Documentar insights relevantes** para la toma de decisiones ejecutivas  
+- 🧼 **Limpieza y transformación profunda** de los datos (fechas, precios, outliers, escalado)  
+- 🧱 **Ingeniería de atributos personalizada** (e.g. `approval_rate`, `game_age`, `estimated_owners`)  
+- 🏷️ **Codificación de variables categóricas** como géneros y etiquetas (one-hot)  
+- 📐 **Normalización de variables numéricas** para uso en modelos sensibles a escala  
+- 🧪 **Entrenamiento de múltiples modelos de clasificación** (LogReg, RF, XGBoost)  
+- 🧭 **Validación cruzada y selección de modelo óptimo**  
+- 🛠️ **Optimización de hiperparámetros** para maximizar la performance  
+- 🔍 **Interpretabilidad de modelos** mediante `feature_importance_` y SHAP  
+- 💡 **Obtención de insights accionables** basados en el comportamiento de los datos  
+- ✅ **Recomendaciones estratégicas concretas** para desarrolladores y publishers  
+- 📽️ **Construcción de una presentación ejecutiva clara y visual**  
+- 🗃️ **Publicación del proyecto completo** en GitHub y Google Slides
 
 ---
 
